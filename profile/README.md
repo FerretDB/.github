@@ -1,1 +1,1 @@
-# A truly Open Source MongoDB alternative
+MongoDB-on-Postgres. Kinda.
