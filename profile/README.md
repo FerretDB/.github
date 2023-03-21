@@ -1,1 +1,1 @@
-# A truly Open Source MongoDB alternative
+# Open Source, MongoDB-compatible document database
